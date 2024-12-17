@@ -3066,6 +3066,9 @@ video {
 
     }
 
+    .preloader {
+        width: 100%;
+    }
 
 
 }
@@ -3351,6 +3354,9 @@ video {
         font-size: .9rem;
     }
 
+    .preloader {
+        width: 100%;
+    }
 
 
 }
@@ -3734,6 +3740,10 @@ video {
 
         border-radius: 17px;
 
+    }
+
+    .preloader {
+        width: 100%;
     }
 
 
